@@ -1,0 +1,40 @@
+input {
+    display: block;
+    width: 500px;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px 20px;
+    border: 1px solid #dfe1e5;
+    border-radius: 20px;
+
+}
+
+img {
+
+    display: block;
+    width: 500px;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.sub {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn {
+    height: 45px;
+
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
